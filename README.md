@@ -1,4 +1,8 @@
 # Formação - Data Science
 
-<a href="https://cursos.alura.com.br/formacao-data-science" target="blank">Data Science</a> 
+Esse repositório contém as anotações dos cursos Alura formação <a href="https://cursos.alura.com.br/formacao-data-science" target="blank">Data Science</a>.
+
+## Conteúdo
+
+<a href="https://github.com/gpanassol/alura-ciencia-dados/tree/master/estatistica-um-dados-com-r" target="blank">Estatística I: Entenda seus dados com R</a>
 
