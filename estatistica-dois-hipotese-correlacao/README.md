@@ -97,3 +97,26 @@ Dados não Normalizado - Correlação de <b>Spearman</b>
 > cor(a, b, method="spearman")
 [1] 1
 ```
+
+## Regressão Linear
+
+Util para predições
+
+```
+> x1 <- c(1,2,3)
+> x2 <- c(2,4,6)
+> lm(formula=x2~x1)
+
+Call:
+lm(formula = x2 ~ x1)
+
+Coefficients:
+(Intercept)           x1
+          0            2
+```
+
+Aqui a função <b>f</b> fica:
+
+```
+f(x) = 2x + 1
+```
