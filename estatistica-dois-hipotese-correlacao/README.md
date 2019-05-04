@@ -54,3 +54,17 @@ alternative hypothesis: true location shift is not equal to 0
 ## Dado pareados - paired
 
 O teste <b>paired</b> significa que o estatístico colheu os dados da mesma amostra para compará-los.
+
+## Correlação
+
+Comparação de duas variaveis. Quando uma variável muda a outra também muda junto. Geralmente, funções de correlação nos retornam valores entre -1 e 1.
+
+<ul>
+<li>Para uma distribuição Normal: Teste de Pearson.</li>
+<li>Para uma distribuição não Normal: Teste de Spearman.</li>
+</ul>
+
+<em>Correlação</em> não implica em <em>Causalidade</em>
+
+<img src="http://www.abgconsultoria.com.br/blog/wp-content/uploads/img2-2.png" alt="Smiley face" height="42" width="42">
+Fonte <a href="http://www.abgconsultoria.com.br/blog/wp-content/uploads/img2-2.png">http://www.abgconsultoria.com.br/blog/wp-content/uploads/img2-2.png</a>
