@@ -9,9 +9,10 @@ Dados:
 Ferramentas:
 
 <ul>
-<li>NumPy</li>
-<li>Pandas</li>
-<li>Seaborn</li>
-<li>Matplotlib</li>
+<li><a href="https://jupyter.org/" target="_blank">Jupyter Notebook</a></li>
+<li><a href="https://www.numpy.org/" target="_blank">NumPy</a></li>
+<li><a href="http://pandas.pydata.org/pandas-docs/stable/" target="_blank">Pandas</a></li>
+<li><a href="http://seaborn.pydata.org/introduction.html" target="_blank">Seaborn</a></li>
+<li><a href="https://matplotlib.org/" target="_blank">Matplotlib</a></li>
 </ul>
 
