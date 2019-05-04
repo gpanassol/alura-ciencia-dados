@@ -66,5 +66,5 @@ Comparação de duas variaveis. Quando uma variável muda a outra também muda j
 
 <em>Correlação</em> não implica em <em>Causalidade</em>
 
-<img src="http://www.abgconsultoria.com.br/blog/wp-content/uploads/img2-2.png" alt="Smiley face" height="42" width="42">
+<img src="http://www.abgconsultoria.com.br/blog/wp-content/uploads/img2-2.png">
 Fonte <a href="http://www.abgconsultoria.com.br/blog/wp-content/uploads/img2-2.png">http://www.abgconsultoria.com.br/blog/wp-content/uploads/img2-2.png</a>
