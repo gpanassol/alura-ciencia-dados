@@ -68,3 +68,32 @@ Comparação de duas variaveis. Quando uma variável muda a outra também muda j
 
 <img src="http://www.abgconsultoria.com.br/blog/wp-content/uploads/img2-2.png">
 Fonte <a href="http://www.abgconsultoria.com.br/blog/wp-content/uploads/img2-2.png">http://www.abgconsultoria.com.br/blog/wp-content/uploads/img2-2.png</a>
+
+## Correlação no R
+
+Para fazer uma função de correlação em R usando o comando <b>cor</b>
+
+```
+> a <- c(2,3,4)
+> b <- c(4,6,8)
+> cor(a,b)
+[1] 1
+```
+
+Dados Normalizado - Correlação de <b>Pearson</b>
+
+```
+> a <- c(2,3,4)
+> b <- c(4,6,8)
+> cor(a, b, method="pearson")
+[1] 1
+```
+
+Dados não Normalizado - Correlação de <b>Spearman</b>
+
+```
+> a <- c(2,3,4)
+> b <- c(4,6,8)
+> cor(a, b, method="spearman")
+[1] 1
+```
