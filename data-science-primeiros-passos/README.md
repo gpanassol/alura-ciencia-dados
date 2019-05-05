@@ -16,3 +16,7 @@ Ferramentas:
 <li><a href="https://matplotlib.org/" target="_blank">Matplotlib</a></li>
 </ul>
 
+Jupyter Notebook
+
+<a href="https://github.com/gpanassol/alura-ciencia-dados/blob/master/data-science-primeiros-passos/Introdu%C3%A7%C3%A3o%20a%20Data%20Science.ipynb" target="_blank">Introdução a Data Science</a>
+
